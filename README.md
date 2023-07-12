@@ -16,7 +16,7 @@ Please feel free to browse through my projects and get in touch if you'd like to
     The second part of the project was a bash script that streamlined processes like batch editing, renaming, structuring, testing, or executing the problem statement files.
     This project demonstrates the ability to automate repetitive tasks and create efficient workflows.
     
-!["Repo link to Edabit-JS"]("https://github.com/PBJI/Edabit-JS")
+[Repo link to Edabit-JS](https://github.com/PBJI/Edabit-JS)
 
 ### Ultimate TicTacToe javascript game:
 
@@ -25,7 +25,7 @@ Please feel free to browse through my projects and get in touch if you'd like to
     A bot is implemented, although it is not optimized and therefore not intelligent.
     This project showcases my ability to apply programming concepts to create a functioning game.
  
-!["Repo link to UTTT"]("https://github.com/PBJI/Edabit-JS")
+[Repo link to UTTT](https://github.com/PBJI/UTTT)
 
 ### WixCast:
 
@@ -34,7 +34,7 @@ Please feel free to browse through my projects and get in touch if you'd like to
     Despite this, the project was a valuable learning experience in project management and how to modularize apps to practice clean code.
     This project demonstrates my ability to design a project and learn from mistakes.
 
-!["Repo link to WixCast"]("https://github.com/PBJI/Edabit-JS")
+[Repo link to WixCast](https://github.com/PBJI/WixCast)
 
 
 ### Real Time Chat App:
@@ -43,4 +43,4 @@ Please feel free to browse through my projects and get in touch if you'd like to
     It is project that will help me know myself as a software engineer.
     The project aims towards a fully flegded chat app that utilizes MERN stack and other powerful frameworks. And focus is more on engineering then designing. So, it is expected to see broken css but functionality will not be compromised.
 
-!["Live link to Chat App"]("https://mauve-seagull-tam.cyclic.app/")
+[Live link to Chat App](https://mauve-seagull-tam.cyclic.app/)
