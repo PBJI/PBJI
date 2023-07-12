@@ -35,3 +35,12 @@ WixCast:
     This project demonstrates my ability to design a project and learn from mistakes.
 
 !["Repo link to WixCast"]("https://github.com/PBJI/Edabit-JS")
+
+
+Real Time Chat App:
+
+    This project is a journey for me to explore the powerful frameworks of web technology to deal with abstract problems like engineering an SPA app.
+    It is project that will help me know myself as a software engineer.
+    The project aims towards a fully flegded chat app that utilizes MERN stack and other powerful frameworks. And focus is more on engineering then designing. So, it is expected to see broken css but functionality will not be compromised.
+
+!["Repo link to WixCast"]("https://mauve-seagull-tam.cyclic.app/")
