@@ -8,6 +8,24 @@ In my free time, I like to read about AI and ML advancements and experiment with
 Please feel free to browse through my projects and get in touch if you'd like to collaborate on a project or discuss any interesting ideas.
 
 # Projects
+
+### July 2023 - Real Time Chat App:
+
+    This project is a journey for me to explore the powerful frameworks of web technology to deal with abstract problems like engineering an SPA app.
+    It is project that will help me know myself as a software engineer.
+    The project aims towards a fully flegded chat app that utilizes MERN stack and other powerful frameworks. And focus is more on engineering then designing. So, it is expected to see broken css but functionality will not be compromised.
+
+[Live link to Chat App](https://mauve-seagull-tam.cyclic.app/)
+
+### April 2023 - WixCast:
+
+    This project was designed to automate the uploading process of product details from WhatsApp to wix.com with the help of third-party APIs like imgur.com, openAI.com, and wix.com.
+    However, the project was abandoned due to the monetary nature of some of the APIs and mistakes in evaluating the risks involved in actual implementation.
+    Despite this, the project was a valuable learning experience in project management and how to modularize apps to practice clean code.
+    This project demonstrates my ability to design a project and learn from mistakes.
+
+[Repo link to WixCast](https://github.com/PBJI/WixCast)
+
 ### Dec 2022 - Edabit scraper (Javascript) and File processes automation script:
 
     This project involved creating a Javascript script that could scrape, extract and download problem statements from *edabit.com* into individual files.
@@ -26,21 +44,3 @@ Please feel free to browse through my projects and get in touch if you'd like to
     This project showcases my ability to apply programming concepts to create a functioning game.
  
 [Repo link to UTTT](https://github.com/PBJI/UTTT)
-
-### April 2023 - WixCast:
-
-    This project was designed to automate the uploading process of product details from WhatsApp to wix.com with the help of third-party APIs like imgur.com, openAI.com, and wix.com.
-    However, the project was abandoned due to the monetary nature of some of the APIs and mistakes in evaluating the risks involved in actual implementation.
-    Despite this, the project was a valuable learning experience in project management and how to modularize apps to practice clean code.
-    This project demonstrates my ability to design a project and learn from mistakes.
-
-[Repo link to WixCast](https://github.com/PBJI/WixCast)
-
-
-### July 2023 - Real Time Chat App:
-
-    This project is a journey for me to explore the powerful frameworks of web technology to deal with abstract problems like engineering an SPA app.
-    It is project that will help me know myself as a software engineer.
-    The project aims towards a fully flegded chat app that utilizes MERN stack and other powerful frameworks. And focus is more on engineering then designing. So, it is expected to see broken css but functionality will not be compromised.
-
-[Live link to Chat App](https://mauve-seagull-tam.cyclic.app/)
