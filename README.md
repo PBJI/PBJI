@@ -43,4 +43,4 @@ Please feel free to browse through my projects and get in touch if you'd like to
     A bot is implemented, although it is not optimized and therefore not intelligent.
     This project showcases my ability to apply programming concepts to create a functioning game.
  
-[Repo link to UTTT](https://github.com/PBJI/UTTT)
+[Live link to UTTT](https://pbji.github.io/UTTT/)
