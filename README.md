@@ -38,7 +38,7 @@ Please feel free to browse through my projects and get in touch if you'd like to
 
 ### Nov 2021 - Ultimate TicTacToe javascript game:
 
-    This project was created when you were learning Javascript in 2021 and is your first Javascript project.
+    This project was created when I was learning Javascript in 2021 as an absolute beginner and is my first Javascript project.
     The game involves a 9x9 grid with 3x3 sub-grids, and the game logic is a variation of simple TicTacToe.
     A bot is implemented, although it is not optimized and therefore not intelligent.
     This project showcases my ability to apply programming concepts to create a functioning game.
