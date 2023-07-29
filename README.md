@@ -1,5 +1,5 @@
 # Introduction
-Hi there! I'm Purshotam Bohra, and I'm a software developer with a passion for creating bash automation scripts. I'm also interested in web development, exploring AI and ML topics, and data analytics. In addition, I have a keen interest in software management techniques to improve software-based projects.
+Hi there! I'm Purshotam Bohra, and I'm a software developer with a passion for creating bash automation scripts. I'm also interested in web-app development, exploring AI and ML topics, and data analytics. In addition, I have a keen interest in software management techniques to improve software-based projects.
 
 I enjoy building scripts and web applications using a variety of tools and languages, and I love exploring the latest technologies and frameworks. When it comes to automation, I'm always looking for ways to streamline workflows and simplify repetitive tasks using bash scripts.
 
