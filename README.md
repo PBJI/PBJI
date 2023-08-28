@@ -7,6 +7,8 @@ In my free time, I like to read about AI and ML advancements and experiment with
 
 Please feel free to browse through my projects and get in touch if you'd like to collaborate on a project or discuss any interesting ideas.
 
+![Shivay's github stats](https://github-readme-stats.vercel.app/api?username=pbji&show_icons=true&hide_border=true)
+
 # Projects
 
 ### July 2023 - Real Time Chat App:
