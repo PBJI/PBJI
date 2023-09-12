@@ -15,13 +15,19 @@ Feel free to explore my projects below and get in touch if you're interested in 
 
 ## Projects
 
-### Real-Time Chat App (Work in Progress)
+### Real-Time Chat App (React Application) (Work in Progress)
 I'm currently working on a real-time chat application using the MERN stack. While the project is still a work in progress, it represents my ongoing journey in web application development. The backend components, including MongoDB and Express, are yet to be fully implemented from scratch, and the UI functionality is still evolving with major features pending development.
 
 [Explore the Chat App Project](https://mauve-seagull-tam.cyclic.app/)
 
+### Profile Editor (React Application) (September 2023)
+
+This React application, developed using TypeScript and styled components, serves as a simple profile editor. Users can manage profiles by editing attributes such as age, gender, name, country, and description. The application includes validation checks to ensure data integrity during the saving process.
+
+[Explore the Dummy Profile Editor](https://dummy-profile-editor-react.vercel.app/)
+
 ### WixCast (April 2023)
-An automation project for uploading product details from WhatsApp to wix.com.
+An automation project for uploading product details from WhatsApp to wix.com. Not functional due to failed development.
 
 [Explore the WixCast Repository](https://github.com/PBJI/WixCast)
 
@@ -31,6 +37,6 @@ A JavaScript script for scraping, extracting, and downloading problem statements
 [Visit the Edabit-JS Repository](https://github.com/PBJI/Edabit-JS)
 
 ### Ultimate TicTacToe JavaScript Game (November 2021)
-A variation of traditional TicTacToe featuring a 9x9 grid with 3x3 sub-grids.
+A variation of traditional TicTacToe featuring a 9x9 grid with 3x3 sub-grids with a simple bot.
 
 [Experience Ultimate TicTacToe](https://pbji.github.io/ultimate-tictactoe-js-bot/)
