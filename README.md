@@ -41,8 +41,8 @@ A variation of traditional TicTacToe featuring a 9x9 grid with 3x3 sub-grids wit
 
 [Experience Ultimate TicTacToe](https://pbji.github.io/ultimate-tictactoe-js-bot/)
 
-## CodePens
+### CodePens
 
-### Draggable Labelled Boxes
+#### Draggable Labelled Boxes
 So, while dabbling with blessed library on npm, I realized I should create a similar kind of box that has a label on its top border. While creating this cute box I added an extra dose of dragginess (don't confuse with drowsiness) to it.
 [Link here](https://codepen.io/Purshotam-Bohra/pen/abPLWmy)
