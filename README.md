@@ -39,7 +39,7 @@ A JavaScript script for scraping, extracting, and downloading problem statements
 ### Ultimate TicTacToe JavaScript Game (November 2021)
 A variation of traditional TicTacToe featuring a 9x9 grid with 3x3 sub-grids with a simple bot.
 
-[Experience Ultimate TicTacToe](https://pbji.github.io/ultimate-tictactoe-js-bot/)
+[Experience Ultimate TicTacToe](https://pbji.github.io/ultimate-tictactoe-js/)
 
 ### CodePens
 
