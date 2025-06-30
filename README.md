@@ -1,6 +1,6 @@
 # Purshotam Bohra - Software Developer & IT Student
 
-Hello, I'm Purshotam Bohra, a software developer with a passion for exploring web application development and a diverse set of interests. I'm currently pursuing a BSc in IT, alongside my active involvement in software development.
+Hello, I'm Purshotam Bohra, a software developer with a passion for exploring web application development and a diverse set of interests. I'm BScIT graduate.
 
 ## About Me
 I've been actively involved in web application development and have successfully completed several small projects that demonstrate my growing aptitude in this field. Additionally, I have a keen fascination with software management techniques aimed at enhancing software-based projects.
