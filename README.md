@@ -15,9 +15,6 @@ Feel free to explore my projects below and get in touch if you're interested in 
 
 ## Projects
 
-### Real-Time Chat App (React Application) (Work in Progress)
-I'm currently working on a real-time chat application using the MERN stack. While the project is still a work in progress, it represents my ongoing journey in web application development. The backend components, including MongoDB and Express, are yet to be fully implemented from scratch, and the UI functionality is still evolving with major features pending development.
-
 [Explore the Chat App Project](https://mauve-seagull-tam.cyclic.app/)
 
 ### Profile Editor (React Application) (September 2023)
